@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Init</h1>
+    return <h1>Init Vercel</h1>
 }
 
 export default Home;
